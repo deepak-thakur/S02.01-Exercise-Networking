@@ -88,7 +88,7 @@ public final class NetworkUtils {
             }
 
 
-        return null;
+        return url;
     }
 
     /**
